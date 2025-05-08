@@ -21,7 +21,7 @@ Backend: Node.js
 
 Map Integration: Leaflet.js 
 
-Database: Firebase Firestore / MongoDB / MySQL
+Database: MySQL
 
 🎯 Use Case
 Designed to assist:
